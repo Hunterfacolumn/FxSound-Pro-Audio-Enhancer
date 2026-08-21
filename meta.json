@@ -1,0 +1,29 @@
+{
+  "repo": "fxsound-pro-audio-enhancer",
+  "product": "FxSound Pro Audio Enhancer",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://fxsound.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "fxsound",
+    "audio-enhancer",
+    "sound-boost",
+    "system-equalizer",
+    "headphone-audio",
+    "music-playback",
+    "sound-quality",
+    "audio-processing",
+    "fxsound-setup-failed-fix",
+    "how-to-install-fxsound",
+    "fxsound-windows",
+    "audio-tools",
+    "windows-tools",
+    "sound-utility"
+  ],
+  "stars_cache": 18,
+  "nexpath_slug": "fxsound",
+  "nexpath_app_name": "FxSound"
+}
